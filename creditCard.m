@@ -1,4 +1,4 @@
 %Chad got a new credict card
-use = {'Ramen','Chinise','Ikes'};
+use = {'Ramen','Chinese','Ikes'};
 
-weShouldUse = use(randi(3,1));
+weShouldUse = use(randi(3,1))
